@@ -1,0 +1,9 @@
+{
+    "name": "aks_demo_pulumi",
+    "main": "index.js",
+    "type": "module",
+    "dependencies": {
+        "@pulumi/azure-native": "^2.55.0",
+        "@pulumi/pulumi": "^3.128.0"
+    }
+}
